@@ -25,5 +25,8 @@ Este projeto visa automatizar processos de Recursos Humanos (RH) utilizando a in
 - Execute o código Python fornecido.
 - Utilize as funções fornecidas para adicionar novos funcionários, deletar funcionários existentes, entre outras funcionalidades.
 
+![image](image.png)
+Legenda: print do Dashboard da API Google Cloud
+
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
